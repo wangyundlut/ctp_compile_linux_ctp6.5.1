@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,lib_thosttraderapi.so -o lib_thosttraderapi.so CMakeFiles/_thosttraderapi.dir/thosttraderapi_wrap.cxx.o  -lpython3.8 -lthosttraderapi_se 

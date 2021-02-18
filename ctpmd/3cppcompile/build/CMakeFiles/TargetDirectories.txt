@@ -1,0 +1,3 @@
+/projects/projectscpp/ctpcompile/ctpmd/3cppcompile/build/CMakeFiles/rebuild_cache.dir
+/projects/projectscpp/ctpcompile/ctpmd/3cppcompile/build/CMakeFiles/edit_cache.dir
+/projects/projectscpp/ctpcompile/ctpmd/3cppcompile/build/CMakeFiles/_thostmduserapi.dir

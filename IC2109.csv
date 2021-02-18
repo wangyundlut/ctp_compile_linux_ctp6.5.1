@@ -1,0 +1,2 @@
+TradingDay,InstrumentID,LastPrice,PreSettlementPrice,PreClosePrice,PreOpenInterest,OpenPrice,HighestPrice,LowestPrice,Volume,Turnover,OpenInterest,ClosePrice,SettlementPrice,UpperLimitPrice,LowerLimitPrice,PreDelta,CurrDelta,UpdateTime,UpdateMillisec,BidPrice1,BidVolume1,AskPrice1,AskVolume1,AveragePrice,ActionDay
+20210218,IC2109,6087.2,6039.4,6035.0,23615.0,6139.0,6209.8,6083.0,3992,4910302480.0,23601.0,1.7976931348623157e+308,1.7976931348623157e+308,6643.2,5435.6,0.0,1.7976931348623157e+308,11:29:55,500,6084.0,1,6087.2,1,1230035.6913827655,20210218

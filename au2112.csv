@@ -1,0 +1,2 @@
+TradingDay,InstrumentID,LastPrice,PreSettlementPrice,PreClosePrice,PreOpenInterest,OpenPrice,HighestPrice,LowestPrice,Volume,Turnover,OpenInterest,ClosePrice,SettlementPrice,UpperLimitPrice,LowerLimitPrice,PreDelta,CurrDelta,UpdateTime,UpdateMillisec,BidPrice1,BidVolume1,AskPrice1,AskVolume1,AveragePrice,ActionDay
+20210218,au2112,378.18,388.88,389.58,1121.0,383.94,383.94,376.9,270,101979060.0,1178.0,1.7976931348623157e+308,1.7976931348623157e+308,419.98,357.76,0.0,1.7976931348623157e+308,11:30:00,0,377.58,1,378.42,1,377700.22222222225,20210218
