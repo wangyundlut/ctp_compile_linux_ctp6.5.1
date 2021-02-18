@@ -23,18 +23,19 @@ thosttradeapi.py
 添加现有项 6个文件
 然后 
 	1 将python  头文件 在 include里 包含进来（可以创建虚拟环境包含进来） 
-    2 将python.libs静态库文件夹包含进来
-    3 添加静态库
+    2 将python.libs静态库文件夹包含进来(linux好像可以不用包含libpython3.8.a这样的，不包含生成的文件也没有问题)
+    3 添加静态库(Linux 不包含 libpython3.8.a 好像没问题)
 
 编译 64位 release版本
 # 4 测试 #
 
-	
 
 # MDAPI #
 	mdapi中需要修改二级指针的转换
     2类似 第二步开始把所有的tradeapi改成mdapi
 	swig -threads -c++ -python thostmduserapi.i
+	编译具体就是看CMakeLists.txt
+	最后生成调试
 	
 	
 
