@@ -18,7 +18,7 @@ thosttradeapi.py
 	thosttraderapi.lib
 	thosttraderapi_wrap.cxx
 	thosttraderapi_wrap.h
-	链接python静态库 和trader动态库
+	链接python静态库 和trader静态库
 	
 添加现有项 6个文件
 然后 
